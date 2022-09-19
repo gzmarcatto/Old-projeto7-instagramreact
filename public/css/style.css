@@ -242,6 +242,12 @@ body {
   color: #262626;
 }
 
+.sidebar > .usuario-edit {
+  display: flex;
+  flex-direction: row;
+  
+}
+
 .sidebar .sugestoes .titulo {
   display: flex;
   justify-content: space-between;
